@@ -4,11 +4,11 @@ Features:
 Register=>CREATE
  create a new user with fields
 
- full_name=>jyoti sharma
- address=>budhanilakhantha
- email=>jyoti@gmail.com
+ full_name=>Suraj shahi
+ address=>Balkumari
+ email=>suraj.171245@ncit.edu.np
  
- password=>parjajja
+ password=>ncit@123
 
 
     
