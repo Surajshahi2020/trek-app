@@ -1,4 +1,4 @@
-#Made with ❤️ by Suraj Shahi
+#Made by Suraj Shahi
 
 from flask import Flask, jsonify, render_template, request, session, redirect
 
